@@ -325,7 +325,7 @@ section .head_services {
         var(--color-black),
         #00000060
         ),
-        url(img/POLYCROME\ LOGO\ NUEVO\ solo.png);
+        url(POLYCROME\ LOGO\ NUEVO\ solo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -605,3 +605,4 @@ footer{
         font-size: 2rem;
     }
 }
+
