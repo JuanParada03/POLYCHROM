@@ -415,7 +415,7 @@ footer{
 }
 
 .footer .column .logo {
-    max-width: 100px;
+    width: 100px;
     margin-bottom: 2rem;
 }
 
@@ -641,7 +641,7 @@ footer{
     }
 
     .logo .logo-footer {
-        margin-left: 300px;
+        text-align: center;
     }
     
 }
@@ -697,4 +697,5 @@ footer{
         margin-left: 120px;
     }
 }
+
 
