@@ -415,7 +415,7 @@ footer{
 }
 
 .footer .column .logo {
-    width: 100px;
+    max-width: 100px;
     margin-bottom: 2rem;
 }
 
@@ -697,5 +697,6 @@ footer{
         margin-left: 120px;
     }
 }
+
 
 
