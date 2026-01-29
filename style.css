@@ -179,7 +179,7 @@ nav .list-menu li a:hover::before {
 
 /* Main principal */
 .first__sec--img-descrip {
-    background: url(img/fondo\ 3D\ 2.000.jpg) no-repeat center;
+    background: url(fondo\ 3D\ 2.000.jpg) no-repeat center;
     background-size: cover;
     padding: 270px 0;
     margin: 30px;
@@ -697,3 +697,4 @@ footer{
         margin-left: 120px;
     }
 }
+
